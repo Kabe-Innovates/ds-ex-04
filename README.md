@@ -24,7 +24,7 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-![alt text](image.png)
+![alt text](imgs/image.png)
 
 Refer : [Google Collab Notebook](https://colab.research.google.com/drive/17sZcNLwvlOE1BE2d5b9dGSGCgX_l31i3?usp=sharing)
 
