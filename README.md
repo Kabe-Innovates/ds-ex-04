@@ -24,6 +24,10 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![alt text](image.png)
+
+Refer : [Google Collab Notebook](https://colab.research.google.com/drive/17sZcNLwvlOE1BE2d5b9dGSGCgX_l31i3?usp=sharing)
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+
+Feature Scaling and Selcetion is implemented and executed successfully.
